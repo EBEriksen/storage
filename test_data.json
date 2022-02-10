@@ -1,0 +1,164 @@
+[
+   {
+      "name":"Total",
+      "fill":"#64b5f6",
+      "total_deaths":"406",
+      "children":[
+         {
+            "name":"Infeksjon",
+            "fill":"#6699CC",
+            "total_deaths":"24",
+            "children":[
+               {
+                  "name":"Virus",
+                  "fill":"#6699CC",
+                  "value": "9",
+                  "total_deaths":"9"
+               },
+               {
+                  "name":"Bakterier",
+                  "fill":"#6699CC",
+                  "value": "5",
+                  "total_deaths":"5"
+               },
+               {
+                  "name":"Parasitter",
+                  "fill":"#6699CC",
+                  "value": "6",
+                  "total_deaths":"6"
+               },
+               {
+                  "name":"Sårskader",
+                  "fill":"#6699CC",
+                  "value": "4",
+                  "total_deaths":"4"
+               }
+            ]
+         },
+         {
+            "name":"Fysiske Årsaker",
+            "fill":"#98fb98",
+            "total_deaths":"52",
+            "children":[
+               {
+                  "name":"Smoltifisering",
+                  "fill":"#98fb98",
+                  "value": "5",
+                  "total_deaths":"5"
+               },
+               {
+                  "name":"Kjønnsmodning",
+                  "fill":"#98fb98",
+                  "value": "7",
+                  "total_deaths":"7"
+               },
+               {
+                  "name":"Tapere settefiskanlegg",
+                  "fill":"#98fb98",
+                  "value": "6",
+                  "total_deaths":"6"
+               },
+               {
+                  "name":"Gjellesykdom utsett",
+                  "fill":"#98fb98",
+                  "value": "34",
+                  "total_deaths":"34"
+               }
+            ]
+         },
+         {
+            "name":"Miljø",
+            "fill":"#98fb98",
+            "total_deaths":"73",
+            "children":[
+               {
+                  "name":"Oksygensvikt",
+                  "fill":"#98fb98",
+                  "value": "10",
+                  "total_deaths":"10"
+               },
+               {
+                  "name":"Extrem Strøm",
+                  "fill":"#98fb98",
+                  "value": "14",
+                  "total_deaths":"14"
+               },
+               {
+                  "name":"Gassbobling",
+                  "fill":"#98fb98",
+                  "value": "20",
+                  "total_deaths":"20"
+               },
+               {
+                  "name":"Alger i sjøen",
+                  "fill":"#98fb98",
+                  "value": "8",
+                  "total_deaths":"8"
+               },
+               {
+                  "name":"Annet",
+                  "fill":"#98fb98",
+                  "value": "21",
+                  "total_deaths":"21"
+               }
+            ]
+         },
+         {
+            "name":"Mekanisk Påvirking / Skade",
+            "fill":"#D7E5F0",
+            "total_deaths":"65",
+            "children":[
+               {
+                  "name":"Transport til merd",
+                  "fill":"#D7E5F0",
+                  "value": "3",
+                  "total_deaths":"3"
+               },
+               {
+                  "name":"Skade i merd",
+                  "fill":"#D7E5F0",
+                  "value": "20",
+                  "total_deaths":"20"
+               },
+               {
+                  "name":"Avslusing",
+                  "fill":"#D7E5F0",
+                  "value": "13",
+                  "total_deaths":"13"
+               },
+               {
+                  "name":"Håndtering",
+                  "fill":"#D7E5F0",
+                  "value": "2",
+                  "total_deaths":"2"
+               },
+               {
+                  "name":"Predatoskader",
+                  "fill":"#D7E5F0",
+                  "value": "5",
+                  "total_deaths":"5"
+               },
+               {
+                  "name":"Trenging",
+                  "fill":"#D7E5F0",
+                  "value": "22",
+                  "total_deaths":"22"
+               }
+            ]
+         },
+         {
+            "name":"Avliving",
+            "fill":"#CCCC00",
+            "total_deaths":"265",
+            "children":[
+               {
+                  "name":"Slakt",
+                  "fill":"#CCCC00",
+                  "value": "265",
+                  "total_deaths":"265"
+               }
+            ]
+         }
+      ]
+   }
+]
