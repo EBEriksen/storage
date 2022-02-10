@@ -126,18 +126,6 @@
                   "total_deaths":"22"
                }
             ]
-         },
-         {
-            "name":"Avliving",
-            "fill":"#CCCC00",
-            "total_deaths":"265",
-            "children":[
-               {
-                  "name":"Slakt",
-                  "fill":"#CCCC00",
-                  "total_deaths":"265"
-               }
-            ]
          }
       ]
    }
