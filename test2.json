@@ -3,11 +3,13 @@
     "name": "Gruppe 1",
     "id": "1",
     "fill": "#FF4444",
+    "value": "406",
     "total_deaths": "406",
     "children": [
       {
         "name": "Infeksjon",
         "fill": "#6699CC",
+        "value": "24",
         "total_deaths": "24",
         "children": [
           {
@@ -39,6 +41,7 @@
       {
         "name": "Fysiske Årsaker",
         "fill": "#4af84a",
+        "value": "52",
         "total_deaths": "52",
         "children": [
           {
@@ -70,6 +73,7 @@
       {
         "name": "Miljø",
         "fill": "#40b60e",
+        "value": "73",
         "total_deaths": "73",
         "children": [
           {
@@ -107,6 +111,7 @@
       {
         "name": "Mekanisk Påvirking / Skade",
         "fill": "#2be1bb",
+        "value": "65",
         "total_deaths": "65",
         "children": [
           {
@@ -150,6 +155,7 @@
       {
         "name": "Avliving",
         "fill": "#CCCC00",
+        "value": "265",
         "total_deaths": "265",
         "children": [
           {
@@ -166,11 +172,13 @@
     "name": "Gruppe 2",
     "id": "2",
     "fill": "#FFDD44",
+    "value": "406",
     "total_deaths": "406",
     "children": [
       {
         "name": "Infeksjon",
         "fill": "#6699CC",
+        "value": "24",
         "total_deaths": "24",
         "children": [
           {
@@ -202,6 +210,7 @@
       {
         "name": "Fysiske Årsaker",
         "fill": "#4af84a",
+        "value": "52",
         "total_deaths": "52",
         "children": [
           {
@@ -233,6 +242,7 @@
       {
         "name": "Miljø",
         "fill": "#40b60e",
+        "value": "73",
         "total_deaths": "73",
         "children": [
           {
@@ -270,6 +280,7 @@
       {
         "name": "Mekanisk Påvirking / Skade",
         "fill": "#2be1bb",
+        "value": "65",
         "total_deaths": "65",
         "children": [
           {
@@ -313,6 +324,7 @@
       {
         "name": "Avliving",
         "fill": "#CCCC00",
+        "value": "265",
         "total_deaths": "265",
         "children": [
           {
@@ -329,11 +341,13 @@
     "name": "Gruppe 3",
     "id": "3",
     "fill": "#5B42BB",
+    "value": "406",
     "total_deaths": "406",
     "children": [
       {
         "name": "Infeksjon",
         "fill": "#6699CC",
+        "value": "24",
         "total_deaths": "24",
         "children": [
           {
@@ -365,6 +379,7 @@
       {
         "name": "Fysiske Årsaker",
         "fill": "#4af84a",
+        "value": "52",
         "total_deaths": "52",
         "children": [
           {
@@ -396,6 +411,7 @@
       {
         "name": "Miljø",
         "fill": "#40b60e",
+        "value": "73",
         "total_deaths": "73",
         "children": [
           {
@@ -433,6 +449,7 @@
       {
         "name": "Mekanisk Påvirking / Skade",
         "fill": "#2be1bb",
+        "value": "65",
         "total_deaths": "65",
         "children": [
           {
@@ -476,6 +493,7 @@
       {
         "name": "Avliving",
         "fill": "#CCCC00",
+        "value": "265",
         "total_deaths": "265",
         "children": [
           {
@@ -492,11 +510,13 @@
     "name": "Gruppe 4",
     "id": "4",
     "fill": "#38D338",
+    "value": "406",
     "total_deaths": "406",
     "children": [
       {
         "name": "Infeksjon",
         "fill": "#6699CC",
+        "value": "24",
         "total_deaths": "24",
         "children": [
           {
@@ -528,6 +548,7 @@
       {
         "name": "Fysiske Årsaker",
         "fill": "#4af84a",
+        "value": "52",
         "total_deaths": "52",
         "children": [
           {
@@ -559,6 +580,7 @@
       {
         "name": "Miljø",
         "fill": "#40b60e",
+        "value": "73",
         "total_deaths": "73",
         "children": [
           {
@@ -596,6 +618,7 @@
       {
         "name": "Mekanisk Påvirking / Skade",
         "fill": "#2be1bb",
+        "value": "65",
         "total_deaths": "65",
         "children": [
           {
@@ -639,6 +662,7 @@
       {
         "name": "Avliving",
         "fill": "#CCCC00",
+        "value": "265",
         "total_deaths": "265",
         "children": [
           {
